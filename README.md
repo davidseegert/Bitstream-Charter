@@ -8,7 +8,7 @@ There are four fonts included:
 
 
 
-**Source (Original Release):**  
+**Source Files (original release):**  
 https://www.x.org/archive/individual/font/font-bitstream-type1-1.0.3.tar.gz
 
 ## Original Licence
