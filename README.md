@@ -1,5 +1,15 @@
 # Bitstream Charter
-This is an .otf build of the original PostScript 1 Bitstream Charter font.
+This is an .otf conversion of the original PostScript 1 Bitstream Charter font. This build is based on x.org release 1.0.3.
+
+[Download](https://github.com/Peplow/Bitstream-Charter/archive/master.zip)
+
+There are four fonts included:
+
+
+
+**Source (Original Release):**
+https://www.x.org/archive/individual/font/font-bitstream-type1-1.0.3.tar.gz
+
 ## Original Licence
 
 > (c) Copyright 1989-1992, Bitstream Inc., Cambridge, MA.
